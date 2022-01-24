@@ -12,3 +12,6 @@
 - [Spring Boot Microservices Coding Style Guidelines and Best Practices](https://medium.com/codex/spring-boot-microservices-coding-style-guidelines-and-best-practices-1dec229161c8?source=rss-ce7cd5b8b74a------2)
 - [JUnit Migration Guide from JUnit 4 to JUnit 5](https://medium.com/@wenqiglantz/junit-migration-guide-from-junit-4-to-junit-5-95b5700431a6?source=rss-ce7cd5b8b74a------2)
 <!-- BLOG-POST-LIST:END -->
+
+## Statistics
+<img src="https://github-readme-stats.vercel.app/api?username=wenqiglantz&theme=light">
