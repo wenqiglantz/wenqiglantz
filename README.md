@@ -1,6 +1,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot Event-Driven Programming with AWS EventBridge](https://levelup.gitconnected.com/spring-boot-event-driven-programming-with-aws-eventbridge-aa0d8d65f8a8?source=rss-ce7cd5b8b74a------2)
 - [8 Practical GitHub Tips To Help Streamline Development](https://betterprogramming.pub/8-practical-github-tips-to-help-streamline-development-bf394079d554?source=rss-ce7cd5b8b74a------2)
 - [How to Deploy Microservice Using Dapr in Azure Kubernetes Service](https://betterprogramming.pub/how-to-deploy-microservice-using-dapr-in-azure-kubernetes-service-da75319dd0ea?source=rss-ce7cd5b8b74a------2)
 - [Microfrontends Architecture, Tooling, and Recommended Practices](https://medium.com/javarevisited/microfrontends-architecture-tooling-and-recommended-practices-821fd987b344?source=rss-ce7cd5b8b74a------2)
