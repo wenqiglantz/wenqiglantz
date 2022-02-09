@@ -1,6 +1,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Reactive Circuit Breaker Using Resilience4j](https://betterprogramming.pub/implementing-reactive-circuit-breaker-using-resilience4j-4fe81d28e100?source=rss-ce7cd5b8b74a------2)
 - [Spring Boot Event-Driven Programming with AWS EventBridge](https://levelup.gitconnected.com/spring-boot-event-driven-programming-with-aws-eventbridge-aa0d8d65f8a8?source=rss-ce7cd5b8b74a------2)
 - [8 Practical GitHub Tips To Help Streamline Development](https://betterprogramming.pub/8-practical-github-tips-to-help-streamline-development-bf394079d554?source=rss-ce7cd5b8b74a------2)
 - [How to Deploy Microservice Using Dapr in Azure Kubernetes Service](https://betterprogramming.pub/how-to-deploy-microservice-using-dapr-in-azure-kubernetes-service-da75319dd0ea?source=rss-ce7cd5b8b74a------2)
@@ -10,7 +11,6 @@
 - [JUnit Migration Guide from JUnit 4 to JUnit 5](https://medium.com/@wenqiglantz/junit-migration-guide-from-junit-4-to-junit-5-95b5700431a6?source=rss-ce7cd5b8b74a------2)
 - [BDD Testing with Cucumber and JUnit 5](https://medium.com/codex/bdd-testing-with-cucumber-junit-5-fb5a1c4354f9?source=rss-ce7cd5b8b74a------2)
 - [Consumer-Driven Contract Testing with Pact](https://medium.com/codex/consumer-driven-contract-testing-with-pact-f8a28a8a7c3c?source=rss-ce7cd5b8b74a------2)
-- [Event-Driven Programming with Dapr](https://medium.com/codex/event-driven-programming-with-dapr-db96ac855a2d?source=rss-ce7cd5b8b74a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Statistics
