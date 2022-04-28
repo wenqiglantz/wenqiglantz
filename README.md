@@ -1,6 +1,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Native: The  Wings That Make Spring Boot Fly](https://betterprogramming.pub/how-to-integrate-spring-native-into-spring-boot-microservices-add2ece541b8?source=rss-ce7cd5b8b74a------2)
 - [Multi-Tenancy Support With Spring Boot, Liquibase, and PostgreSQL](https://betterprogramming.pub/multi-tenancy-support-with-spring-boot-liquibase-and-postgresql-d41942dc0639?source=rss-ce7cd5b8b74a------2)
 - [Java Coding Style Automation](https://betterprogramming.pub/java-coding-style-automation-b44b82cec010?source=rss-ce7cd5b8b74a------2)
 - [Implementing Reactive Circuit Breaker Using Resilience4j](https://betterprogramming.pub/implementing-reactive-circuit-breaker-using-resilience4j-4fe81d28e100?source=rss-ce7cd5b8b74a------2)
@@ -10,7 +11,6 @@
 - [Microfrontends Architecture, Tooling, and Recommended Practices](https://medium.com/javarevisited/microfrontends-architecture-tooling-and-recommended-practices-821fd987b344?source=rss-ce7cd5b8b74a------2)
 - [Upgraded to the Shiny Java 17? Now What?](https://medium.com/javarevisited/upgraded-to-the-shiny-java-17-now-what-a4cc5b7f1d9b?source=rss-ce7cd5b8b74a------2)
 - [Spring Boot Microservices Coding Style Guidelines and Best Practices](https://medium.com/codex/spring-boot-microservices-coding-style-guidelines-and-best-practices-1dec229161c8?source=rss-ce7cd5b8b74a------2)
-- [JUnit Migration Guide from JUnit 4 to JUnit 5](https://medium.com/@wenqiglantz/junit-migration-guide-from-junit-4-to-junit-5-95b5700431a6?source=rss-ce7cd5b8b74a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Statistics
