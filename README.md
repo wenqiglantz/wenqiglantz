@@ -1,6 +1,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Distributed Tracing With OpenTelemetry, Spring Cloud Sleuth, Kafka, and Jaeger](https://betterprogramming.pub/distributed-tracing-with-opentelemetry-spring-cloud-sleuth-kafka-and-jaeger-939e35f45821?source=rss-ce7cd5b8b74a------2)
 - [Automation With Jira Webhook and GitHub Actions Workflow](https://betterprogramming.pub/automation-with-jira-webhook-and-github-actions-workflow-fcd7efbf6688?source=rss-ce7cd5b8b74a------2)
 - [A First Look at Harden-Runner: The Must-Have GitHub Action To Prevent Supply Chain Attacks](https://betterprogramming.pub/a-first-look-at-harden-runner-the-must-have-github-action-to-prevent-supply-chain-attacks-d7707bbc106e?source=rss-ce7cd5b8b74a------2)
 - [Spring Native: The  Wings That Make Spring Boot Fly](https://betterprogramming.pub/how-to-integrate-spring-native-into-spring-boot-microservices-add2ece541b8?source=rss-ce7cd5b8b74a------2)
@@ -10,7 +11,6 @@
 - [Spring Boot Event-Driven Programming with AWS EventBridge](https://levelup.gitconnected.com/spring-boot-event-driven-programming-with-aws-eventbridge-aa0d8d65f8a8?source=rss-ce7cd5b8b74a------2)
 - [8 Practical GitHub Tips To Help Streamline Development](https://betterprogramming.pub/8-practical-github-tips-to-help-streamline-development-bf394079d554?source=rss-ce7cd5b8b74a------2)
 - [How to Deploy Microservice Using Dapr in Azure Kubernetes Service](https://betterprogramming.pub/how-to-deploy-microservice-using-dapr-in-azure-kubernetes-service-da75319dd0ea?source=rss-ce7cd5b8b74a------2)
-- [Microfrontends Architecture, Tooling, and Recommended Practices](https://medium.com/javarevisited/microfrontends-architecture-tooling-and-recommended-practices-821fd987b344?source=rss-ce7cd5b8b74a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Statistics
