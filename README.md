@@ -1,6 +1,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Distributed Tracing With OpenTelemetry and DataDog](https://betterprogramming.pub/distributed-tracing-with-opentelemetry-and-datadog-712f8f4d520b?source=rss-ce7cd5b8b74a------2)
 - [Terraformer: Converting Infrastructure Into Reusable Terraform Code](https://betterprogramming.pub/terraformer-converting-infrastructure-into-reusable-terraform-code-afe543ad0b15?source=rss-ce7cd5b8b74a------2)
 - [How To Use GitHub Actions Reusable Workflow](https://betterprogramming.pub/how-to-use-github-actions-reusable-workflow-8604e8cbf258?source=rss-ce7cd5b8b74a------2)
 - [12 Tips for a Family Road Trip Across the United States](https://medium.com/globetrotters/12-tips-for-a-family-road-trip-across-the-united-states-fe4611bc358c?source=rss-ce7cd5b8b74a------2)
@@ -10,7 +11,6 @@
 - [Spring Native: The  Wings That Make Spring Boot Fly](https://betterprogramming.pub/how-to-integrate-spring-native-into-spring-boot-microservices-add2ece541b8?source=rss-ce7cd5b8b74a------2)
 - [Multi-Tenancy Support With Spring Boot, Liquibase, and PostgreSQL](https://betterprogramming.pub/multi-tenancy-support-with-spring-boot-liquibase-and-postgresql-d41942dc0639?source=rss-ce7cd5b8b74a------2)
 - [Java Coding Style Automation](https://betterprogramming.pub/java-coding-style-automation-b44b82cec010?source=rss-ce7cd5b8b74a------2)
-- [Implementing Reactive Circuit Breaker Using Resilience4j](https://betterprogramming.pub/implementing-reactive-circuit-breaker-using-resilience4j-4fe81d28e100?source=rss-ce7cd5b8b74a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Statistics
