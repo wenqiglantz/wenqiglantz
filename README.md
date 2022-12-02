@@ -1,6 +1,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Going Native With Spring Boot 3 GA](https://medium.com/better-programming/going-native-with-spring-boot-3-ga-4e8d91ab21d3?source=rss-ce7cd5b8b74a------2)
 - [Infracost + Terraform + GitHub Actions = Automate Cloud Cost Management](https://betterprogramming.pub/infracost-terraform-github-actions-automate-cloud-cost-management-a62b329f2834?source=rss-ce7cd5b8b74a------2)
 - [Feign Reactive — My Preferred Solution for REST API Consumption](https://betterprogramming.pub/feign-reactive-my-preferred-solution-for-rest-api-consumption-5d79a283b24f?source=rss-ce7cd5b8b74a------2)
 - [Developing Custom Libraries With Spring Boot Starter](https://betterprogramming.pub/developing-custom-libraries-with-spring-boot-starter-cf463a5eca39?source=rss-ce7cd5b8b74a------2)
