@@ -1,6 +1,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Troubleshooting Tips for GitHub Actions Workflows](https://betterprogramming.pub/17-troubleshooting-tips-for-github-actions-workflows-43394e4f1a8a?source=rss-ce7cd5b8b74a------2)
 - [Going Native With Spring Boot 3 GA](https://betterprogramming.pub/going-native-with-spring-boot-3-ga-4e8d91ab21d3?source=rss-ce7cd5b8b74a------2)
 - [Infracost + Terraform + GitHub Actions = Automate Cloud Cost Management](https://betterprogramming.pub/infracost-terraform-github-actions-automate-cloud-cost-management-a62b329f2834?source=rss-ce7cd5b8b74a------2)
 - [Feign Reactive — My Preferred Solution for REST API Consumption](https://betterprogramming.pub/feign-reactive-my-preferred-solution-for-rest-api-consumption-5d79a283b24f?source=rss-ce7cd5b8b74a------2)
@@ -10,7 +11,6 @@
 - [Terraformer: Converting Infrastructure Into Reusable Terraform Code](https://betterprogramming.pub/terraformer-converting-infrastructure-into-reusable-terraform-code-afe543ad0b15?source=rss-ce7cd5b8b74a------2)
 - [How To Use GitHub Actions Reusable Workflow](https://betterprogramming.pub/how-to-use-github-actions-reusable-workflow-8604e8cbf258?source=rss-ce7cd5b8b74a------2)
 - [12 Tips for a Family Road Trip Across the United States](https://medium.com/globetrotters/12-tips-for-a-family-road-trip-across-the-united-states-fe4611bc358c?source=rss-ce7cd5b8b74a------2)
-- [Distributed Tracing With OpenTelemetry, Spring Cloud Sleuth, Kafka, and Jaeger](https://betterprogramming.pub/distributed-tracing-with-opentelemetry-spring-cloud-sleuth-kafka-and-jaeger-939e35f45821?source=rss-ce7cd5b8b74a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Statistics
