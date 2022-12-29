@@ -1,6 +1,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Pair Programming in Terraform and GitHub Actions With ChatGPT](https://betterprogramming.pub/pair-programming-in-terraform-and-github-actions-with-chatgpt-b43f2513698b?source=rss-ce7cd5b8b74a------2)
 - [Troubleshooting Tips for GitHub Actions Workflows](https://betterprogramming.pub/17-troubleshooting-tips-for-github-actions-workflows-43394e4f1a8a?source=rss-ce7cd5b8b74a------2)
 - [Going Native With Spring Boot 3 GA](https://betterprogramming.pub/going-native-with-spring-boot-3-ga-4e8d91ab21d3?source=rss-ce7cd5b8b74a------2)
 - [Infracost + Terraform + GitHub Actions = Automate Cloud Cost Management](https://betterprogramming.pub/infracost-terraform-github-actions-automate-cloud-cost-management-a62b329f2834?source=rss-ce7cd5b8b74a------2)
@@ -10,7 +11,6 @@
 - [Distributed Tracing With OpenTelemetry and DataDog](https://betterprogramming.pub/distributed-tracing-with-opentelemetry-and-datadog-712f8f4d520b?source=rss-ce7cd5b8b74a------2)
 - [Terraformer: Converting Infrastructure Into Reusable Terraform Code](https://betterprogramming.pub/terraformer-converting-infrastructure-into-reusable-terraform-code-afe543ad0b15?source=rss-ce7cd5b8b74a------2)
 - [How To Use GitHub Actions Reusable Workflow](https://betterprogramming.pub/how-to-use-github-actions-reusable-workflow-8604e8cbf258?source=rss-ce7cd5b8b74a------2)
-- [12 Tips for a Family Road Trip Across the United States](https://medium.com/globetrotters/12-tips-for-a-family-road-trip-across-the-united-states-fe4611bc358c?source=rss-ce7cd5b8b74a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Statistics
