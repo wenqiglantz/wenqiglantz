@@ -1,7 +1,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Pair Programming in Terraform and GitHub Actions With ChatGPT](https://betterprogramming.pub/pair-programming-in-terraform-and-github-actions-with-chatgpt-b43f2513698b?source=rss-ce7cd5b8b74a------2)
+- [Pair Programming With ChatGPT: Writing Terraform and GitHub Actions](https://betterprogramming.pub/pair-programming-in-terraform-and-github-actions-with-chatgpt-b43f2513698b?source=rss-ce7cd5b8b74a------2)
 - [Troubleshooting Tips for GitHub Actions Workflows](https://betterprogramming.pub/17-troubleshooting-tips-for-github-actions-workflows-43394e4f1a8a?source=rss-ce7cd5b8b74a------2)
 - [Going Native With Spring Boot 3 GA](https://betterprogramming.pub/going-native-with-spring-boot-3-ga-4e8d91ab21d3?source=rss-ce7cd5b8b74a------2)
 - [Infracost + Terraform + GitHub Actions = Automate Cloud Cost Management](https://betterprogramming.pub/infracost-terraform-github-actions-automate-cloud-cost-management-a62b329f2834?source=rss-ce7cd5b8b74a------2)
