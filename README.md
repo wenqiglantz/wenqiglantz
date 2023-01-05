@@ -1,6 +1,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DevOps Self-Service Pipeline Architecture and Its 3–2–1 Rule](https://betterprogramming.pub/devops-self-service-pipeline-architecture-and-its-3-2-1-rule-517dc0bbcb4a?source=rss-ce7cd5b8b74a------2)
 - [Pair Programming With ChatGPT: Writing Terraform and GitHub Actions](https://betterprogramming.pub/pair-programming-in-terraform-and-github-actions-with-chatgpt-b43f2513698b?source=rss-ce7cd5b8b74a------2)
 - [Troubleshooting Tips for GitHub Actions Workflows](https://betterprogramming.pub/17-troubleshooting-tips-for-github-actions-workflows-43394e4f1a8a?source=rss-ce7cd5b8b74a------2)
 - [Going Native With Spring Boot 3 GA](https://betterprogramming.pub/going-native-with-spring-boot-3-ga-4e8d91ab21d3?source=rss-ce7cd5b8b74a------2)
@@ -10,7 +11,6 @@
 - [Notes on Spring Boot 3 Upgrade](https://betterprogramming.pub/notes-on-spring-boot-3-upgrade-a15e16f84862?source=rss-ce7cd5b8b74a------2)
 - [Distributed Tracing With OpenTelemetry and DataDog](https://betterprogramming.pub/distributed-tracing-with-opentelemetry-and-datadog-712f8f4d520b?source=rss-ce7cd5b8b74a------2)
 - [Terraformer: Converting Infrastructure Into Reusable Terraform Code](https://betterprogramming.pub/terraformer-converting-infrastructure-into-reusable-terraform-code-afe543ad0b15?source=rss-ce7cd5b8b74a------2)
-- [How To Use GitHub Actions Reusable Workflow](https://betterprogramming.pub/how-to-use-github-actions-reusable-workflow-8604e8cbf258?source=rss-ce7cd5b8b74a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Statistics
