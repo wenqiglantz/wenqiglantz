@@ -1,7 +1,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DevOps Self-Service Centric GitHub Actions’ Workflow Orchestration](https://betterprogramming.pub/devops-self-service-centric-github-actions-workflow-orchestration-81f0c0229bc1?source=rss-ce7cd5b8b74a------2)
+- [DevOps Self-Service-Centric GitHub Actions’ Workflow Orchestration](https://betterprogramming.pub/devops-self-service-centric-github-actions-workflow-orchestration-81f0c0229bc1?source=rss-ce7cd5b8b74a------2)
 - [DevOps Self-Service Centric Terraform Project Structure](https://betterprogramming.pub/devops-self-service-centric-terraform-project-structure-d3421862ce86?source=rss-ce7cd5b8b74a------2)
 - [DevOps Self-Service Pipeline Architecture and Its 3–2–1 Rule](https://betterprogramming.pub/devops-self-service-pipeline-architecture-and-its-3-2-1-rule-517dc0bbcb4a?source=rss-ce7cd5b8b74a------2)
 - [Pair Programming With ChatGPT: Writing Terraform and GitHub Actions](https://betterprogramming.pub/pair-programming-in-terraform-and-github-actions-with-chatgpt-b43f2513698b?source=rss-ce7cd5b8b74a------2)
