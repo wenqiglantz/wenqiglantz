@@ -1,6 +1,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Path to DevOps Self-Service: A Five-Part Series](https://medium.com/@wenqiglantz/the-path-to-devops-self-service-a-five-part-series-5ea5d4552f9e?source=rss-ce7cd5b8b74a------2)
 - [DevOps Self-Service Centric Pipeline Integration](https://betterprogramming.pub/devops-self-service-centric-pipeline-integration-2e3702891e6d?source=rss-ce7cd5b8b74a------2)
 - [DevOps Self-Service Centric Pipeline Security and Guardrails](https://betterprogramming.pub/devops-self-service-centric-pipeline-security-and-guardrails-b3f1252c3c42?source=rss-ce7cd5b8b74a------2)
 - [DevOps Self-Service-Centric GitHub Actions’ Workflow Orchestration](https://betterprogramming.pub/devops-self-service-centric-github-actions-workflow-orchestration-81f0c0229bc1?source=rss-ce7cd5b8b74a------2)
@@ -10,7 +11,6 @@
 - [Troubleshooting Tips for GitHub Actions Workflows](https://betterprogramming.pub/17-troubleshooting-tips-for-github-actions-workflows-43394e4f1a8a?source=rss-ce7cd5b8b74a------2)
 - [Going Native With Spring Boot 3 GA](https://betterprogramming.pub/going-native-with-spring-boot-3-ga-4e8d91ab21d3?source=rss-ce7cd5b8b74a------2)
 - [Infracost + Terraform + GitHub Actions = Automate Cloud Cost Management](https://betterprogramming.pub/infracost-terraform-github-actions-automate-cloud-cost-management-a62b329f2834?source=rss-ce7cd5b8b74a------2)
-- [Feign Reactive — My Preferred Solution for REST API Consumption](https://betterprogramming.pub/feign-reactive-my-preferred-solution-for-rest-api-consumption-5d79a283b24f?source=rss-ce7cd5b8b74a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Statistics
