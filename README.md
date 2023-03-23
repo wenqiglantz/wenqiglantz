@@ -1,6 +1,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automating Performance Optimization With AWS Lambda Power Tuning](https://betterprogramming.pub/automating-performance-optimization-with-aws-lambda-power-tuning-d295e7141ecc?source=rss-ce7cd5b8b74a------2)
 - [Boosting Your Productivity with Code GPT Inside IDE](https://medium.com/@wenqiglantz/boosting-your-productivity-with-code-gpt-inside-ide-895a31bb7aa2?source=rss-ce7cd5b8b74a------2)
 - [Integrating ChatGPT and Whisper APIs Into Spring Boot Microservice](https://betterprogramming.pub/integrating-chatgpt-and-whisper-apis-into-spring-boot-microservice-5545e2ea44fc?source=rss-ce7cd5b8b74a------2)
 - [REST APIs — The Silver Bullet in Pipeline Automation](https://betterprogramming.pub/rest-apis-the-silver-bullet-in-pipeline-automation-7dbfbb8a85da?source=rss-ce7cd5b8b74a------2)
@@ -10,7 +11,6 @@
 - [DevOps Self-Service Centric Pipeline Integration](https://betterprogramming.pub/devops-self-service-centric-pipeline-integration-2e3702891e6d?source=rss-ce7cd5b8b74a------2)
 - [DevOps Self-Service Centric Pipeline Security and Guardrails](https://betterprogramming.pub/devops-self-service-centric-pipeline-security-and-guardrails-b3f1252c3c42?source=rss-ce7cd5b8b74a------2)
 - [DevOps Self-Service-Centric GitHub Actions’ Workflow Orchestration](https://betterprogramming.pub/devops-self-service-centric-github-actions-workflow-orchestration-81f0c0229bc1?source=rss-ce7cd5b8b74a------2)
-- [DevOps Self-Service Centric Terraform Project Structure](https://betterprogramming.pub/devops-self-service-centric-terraform-project-structure-d3421862ce86?source=rss-ce7cd5b8b74a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Statistics
