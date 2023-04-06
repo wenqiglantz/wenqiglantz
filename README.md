@@ -1,6 +1,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Hidden Cost of Parallel Processing in GitHub Actions](https://betterprogramming.pub/the-hidden-cost-of-parallel-processing-in-github-actions-63f25b2d5f6a?source=rss-ce7cd5b8b74a------2)
 - [IaC Secrets Management From GitHub Secrets to AWS Secrets Manager](https://betterprogramming.pub/iac-secrets-management-from-github-secrets-to-aws-secrets-manager-63bb4fdd5992?source=rss-ce7cd5b8b74a------2)
 - [Automating Performance Optimization With AWS Lambda Power Tuning](https://betterprogramming.pub/automating-performance-optimization-with-aws-lambda-power-tuning-d295e7141ecc?source=rss-ce7cd5b8b74a------2)
 - [Boosting Your Productivity with Code GPT Inside IDE](https://medium.com/@wenqiglantz/boosting-your-productivity-with-code-gpt-inside-ide-895a31bb7aa2?source=rss-ce7cd5b8b74a------2)
@@ -10,7 +11,6 @@
 - [Build and Deploy Multi-Architecture Graviton Container Images for Spring Boot Microservices](https://betterprogramming.pub/build-and-deploy-multi-architecture-graviton-container-images-for-spring-boot-microservices-f220d66cb3e3?source=rss-ce7cd5b8b74a------2)
 - [The Path to DevOps Self-Service: A Five-Part Series](https://medium.com/@wenqiglantz/the-path-to-devops-self-service-a-five-part-series-5ea5d4552f9e?source=rss-ce7cd5b8b74a------2)
 - [DevOps Self-Service Centric Pipeline Integration](https://betterprogramming.pub/devops-self-service-centric-pipeline-integration-2e3702891e6d?source=rss-ce7cd5b8b74a------2)
-- [DevOps Self-Service Centric Pipeline Security and Guardrails](https://betterprogramming.pub/devops-self-service-centric-pipeline-security-and-guardrails-b3f1252c3c42?source=rss-ce7cd5b8b74a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Statistics
