@@ -1,6 +1,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Use GitHub Packages as Artifacts Registry](https://betterprogramming.pub/a-practical-guide-on-using-github-packages-as-artifacts-registry-ec5d2aaca0cd?source=rss-ce7cd5b8b74a------2)
 - [RDS Hybrid Multitenancy With Hierarchy](https://betterprogramming.pub/rds-hybrid-multitenancy-with-hierarchy-5e9812c98183?source=rss-ce7cd5b8b74a------2)
 - [RDS Hybrid Multitenancy](https://betterprogramming.pub/rds-hybrid-multitenancy-e13e0c2b3900?source=rss-ce7cd5b8b74a------2)
 - [The Hidden Cost of Parallel Processing in GitHub Actions](https://betterprogramming.pub/the-hidden-cost-of-parallel-processing-in-github-actions-63f25b2d5f6a?source=rss-ce7cd5b8b74a------2)
@@ -10,7 +11,6 @@
 - [Integrating ChatGPT and Whisper APIs Into Spring Boot Microservice](https://betterprogramming.pub/integrating-chatgpt-and-whisper-apis-into-spring-boot-microservice-5545e2ea44fc?source=rss-ce7cd5b8b74a------2)
 - [REST APIs — The Silver Bullet in Pipeline Automation](https://betterprogramming.pub/rest-apis-the-silver-bullet-in-pipeline-automation-7dbfbb8a85da?source=rss-ce7cd5b8b74a------2)
 - [Developing Stateful Pipelines with GitHub Actions and DynamoDB](https://betterprogramming.pub/developing-stateful-pipelines-with-github-actions-and-dynamodb-3e0076d73819?source=rss-ce7cd5b8b74a------2)
-- [Build and Deploy Multi-Architecture Graviton Container Images for Spring Boot Microservices](https://betterprogramming.pub/build-and-deploy-multi-architecture-graviton-container-images-for-spring-boot-microservices-f220d66cb3e3?source=rss-ce7cd5b8b74a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Statistics
