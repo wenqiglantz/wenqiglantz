@@ -1,6 +1,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [80/20 Principle: The Key to Efficient Learning with AI](https://medium.com/@wenqiglantz/80-20-principle-the-key-to-efficient-learning-with-ai-547e6b9310a?source=rss-ce7cd5b8b74a------2)
 - [Going Serverless With Spring Cloud Function, AWS Lambda Java 17 Support, and SnapStart](https://betterprogramming.pub/going-serverless-with-spring-cloud-function-aws-lambda-java-17-support-and-snapstart-d3d8ffd44bbd?source=rss-ce7cd5b8b74a------2)
 - [How to Use GitHub Packages as Artifacts Registry](https://betterprogramming.pub/a-practical-guide-on-using-github-packages-as-artifacts-registry-ec5d2aaca0cd?source=rss-ce7cd5b8b74a------2)
 - [RDS Hybrid Multitenancy With Hierarchy](https://betterprogramming.pub/rds-hybrid-multitenancy-with-hierarchy-5e9812c98183?source=rss-ce7cd5b8b74a------2)
@@ -10,7 +11,6 @@
 - [Automating Performance Optimization With AWS Lambda Power Tuning](https://betterprogramming.pub/automating-performance-optimization-with-aws-lambda-power-tuning-d295e7141ecc?source=rss-ce7cd5b8b74a------2)
 - [Boosting Your Productivity with Code GPT Inside IDE](https://medium.com/@wenqiglantz/boosting-your-productivity-with-code-gpt-inside-ide-895a31bb7aa2?source=rss-ce7cd5b8b74a------2)
 - [Integrating ChatGPT and Whisper APIs Into Spring Boot Microservice](https://betterprogramming.pub/integrating-chatgpt-and-whisper-apis-into-spring-boot-microservice-5545e2ea44fc?source=rss-ce7cd5b8b74a------2)
-- [REST APIs — The Silver Bullet in Pipeline Automation](https://betterprogramming.pub/rest-apis-the-silver-bullet-in-pipeline-automation-7dbfbb8a85da?source=rss-ce7cd5b8b74a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Statistics
