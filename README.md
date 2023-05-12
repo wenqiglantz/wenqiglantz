@@ -1,7 +1,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [80/20 Principle: The Key to Efficient Learning with AI](https://medium.com/@wenqiglantz/80-20-principle-the-key-to-efficient-learning-with-ai-547e6b9310a?source=rss-ce7cd5b8b74a------2)
+- [80/20 Principle: The Key to Efficient Learning with AI](https://medium.com/aimonks/80-20-principle-the-key-to-efficient-learning-with-ai-547e6b9310a?source=rss-ce7cd5b8b74a------2)
 - [Going Serverless With Spring Cloud Function, AWS Lambda Java 17 Support, and SnapStart](https://betterprogramming.pub/going-serverless-with-spring-cloud-function-aws-lambda-java-17-support-and-snapstart-d3d8ffd44bbd?source=rss-ce7cd5b8b74a------2)
 - [How to Use GitHub Packages as Artifacts Registry](https://betterprogramming.pub/a-practical-guide-on-using-github-packages-as-artifacts-registry-ec5d2aaca0cd?source=rss-ce7cd5b8b74a------2)
 - [RDS Hybrid Multitenancy With Hierarchy](https://betterprogramming.pub/rds-hybrid-multitenancy-with-hierarchy-5e9812c98183?source=rss-ce7cd5b8b74a------2)
