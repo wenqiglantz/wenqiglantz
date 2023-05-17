@@ -1,6 +1,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tracing with AWS X-Ray in Java Lambda Function with SnapStart](https://betterprogramming.pub/tracing-with-aws-x-ray-in-java-lambda-function-with-snapstart-67cb928928ad?source=rss-ce7cd5b8b74a------2)
 - [80/20 Principle: The Key to Efficient Learning with AI](https://medium.com/aimonks/80-20-principle-the-key-to-efficient-learning-with-ai-547e6b9310a?source=rss-ce7cd5b8b74a------2)
 - [Going Serverless With Spring Cloud Function, AWS Lambda Java 17 Support, and SnapStart](https://betterprogramming.pub/going-serverless-with-spring-cloud-function-aws-lambda-java-17-support-and-snapstart-d3d8ffd44bbd?source=rss-ce7cd5b8b74a------2)
 - [How to Use GitHub Packages as Artifacts Registry](https://betterprogramming.pub/a-practical-guide-on-using-github-packages-as-artifacts-registry-ec5d2aaca0cd?source=rss-ce7cd5b8b74a------2)
@@ -10,7 +11,6 @@
 - [IaC Secrets Management From GitHub Secrets to AWS Secrets Manager](https://betterprogramming.pub/iac-secrets-management-from-github-secrets-to-aws-secrets-manager-63bb4fdd5992?source=rss-ce7cd5b8b74a------2)
 - [Automating Performance Optimization With AWS Lambda Power Tuning](https://betterprogramming.pub/automating-performance-optimization-with-aws-lambda-power-tuning-d295e7141ecc?source=rss-ce7cd5b8b74a------2)
 - [Boosting Your Productivity with Code GPT Inside IDE](https://medium.com/@wenqiglantz/boosting-your-productivity-with-code-gpt-inside-ide-895a31bb7aa2?source=rss-ce7cd5b8b74a------2)
-- [Integrating ChatGPT and Whisper APIs Into Spring Boot Microservice](https://betterprogramming.pub/integrating-chatgpt-and-whisper-apis-into-spring-boot-microservice-5545e2ea44fc?source=rss-ce7cd5b8b74a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Statistics
