@@ -1,6 +1,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Glimpse into the Mechanics of LlamaIndex Apps Through the Lens of Observability](https://betterprogramming.pub/a-glimpse-into-the-mechanics-of-llamaindex-apps-through-the-lens-of-observability-9e7c49f4cb32?source=rss-ce7cd5b8b74a------2)
 - [Building Your Own DevSecOps Knowledge Base with OpenAI, LangChain, and LlamaIndex](https://betterprogramming.pub/building-your-own-devsecops-knowledge-base-with-openai-langchain-and-llamaindex-b28cda15abb7?source=rss-ce7cd5b8b74a------2)
 - [Tracing with AWS X-Ray in Java Lambda Function with SnapStart](https://betterprogramming.pub/tracing-with-aws-x-ray-in-java-lambda-function-with-snapstart-67cb928928ad?source=rss-ce7cd5b8b74a------2)
 - [80/20 Principle: The Key to Efficient Learning with AI](https://medium.com/aimonks/80-20-principle-the-key-to-efficient-learning-with-ai-547e6b9310a?source=rss-ce7cd5b8b74a------2)
@@ -10,7 +11,6 @@
 - [RDS Hybrid Multitenancy](https://betterprogramming.pub/rds-hybrid-multitenancy-e13e0c2b3900?source=rss-ce7cd5b8b74a------2)
 - [The Hidden Cost of Parallel Processing in GitHub Actions](https://betterprogramming.pub/the-hidden-cost-of-parallel-processing-in-github-actions-63f25b2d5f6a?source=rss-ce7cd5b8b74a------2)
 - [IaC Secrets Management From GitHub Secrets to AWS Secrets Manager](https://betterprogramming.pub/iac-secrets-management-from-github-secrets-to-aws-secrets-manager-63bb4fdd5992?source=rss-ce7cd5b8b74a------2)
-- [Automating Performance Optimization With AWS Lambda Power Tuning](https://betterprogramming.pub/automating-performance-optimization-with-aws-lambda-power-tuning-d295e7141ecc?source=rss-ce7cd5b8b74a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Statistics
