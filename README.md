@@ -1,6 +1,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Snowflake and Streamlit With LlamaIndex Text-to-SQL](https://betterprogramming.pub/exploring-snowflake-and-streamlit-with-llamaindex-text-to-sql-f66fec6e321b?source=rss-ce7cd5b8b74a------2)
 - [Experimenting LlamaIndex RouterQueryEngine with Document Management](https://betterprogramming.pub/experimenting-llamaindex-routerqueryengine-with-document-management-19b17f2e3a32?source=rss-ce7cd5b8b74a------2)
 - [Service Container: A Portable Way of Testing Your Application in the Pipeline](https://betterprogramming.pub/service-container-a-portable-way-of-testing-your-application-in-the-pipeline-797030c544c2?source=rss-ce7cd5b8b74a------2)
 - [Refreshing Private Data Sources with LlamaIndex Document Management](https://betterprogramming.pub/refreshing-private-data-sources-with-llamaindex-document-management-1d1f1529f5eb?source=rss-ce7cd5b8b74a------2)
@@ -10,7 +11,6 @@
 - [A Glimpse into the Mechanics of LlamaIndex Apps Through the Lens of Observability](https://betterprogramming.pub/a-glimpse-into-the-mechanics-of-llamaindex-apps-through-the-lens-of-observability-9e7c49f4cb32?source=rss-ce7cd5b8b74a------2)
 - [Building Your Own DevSecOps Knowledge Base with OpenAI, LangChain, and LlamaIndex](https://betterprogramming.pub/building-your-own-devsecops-knowledge-base-with-openai-langchain-and-llamaindex-b28cda15abb7?source=rss-ce7cd5b8b74a------2)
 - [Tracing with AWS X-Ray in Java Lambda Function with SnapStart](https://betterprogramming.pub/tracing-with-aws-x-ray-in-java-lambda-function-with-snapstart-67cb928928ad?source=rss-ce7cd5b8b74a------2)
-- [80/20 Principle: The Key to Efficient Learning with AI](https://medium.com/aimonks/80-20-principle-the-key-to-efficient-learning-with-ai-547e6b9310a?source=rss-ce7cd5b8b74a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Statistics
