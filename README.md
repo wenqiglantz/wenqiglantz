@@ -1,6 +1,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Low-Code and No-Code Task Automation With LlamaIndex Data Agents, Zapier NLA, Snowflake, &amp;…](https://betterprogramming.pub/low-code-and-no-code-task-automation-with-llamaindex-data-agents-zapier-nla-snowflake-85f2ab6144fe?source=rss-ce7cd5b8b74a------2)
 - [SEC 10-K Filings Analysis for Life Science Companies Leveraging Snowflake Marketplace, LlamaIndex…](https://medium.com/snowflake/sec-10-k-filings-analysis-for-life-science-companies-leveraging-snowflake-marketplace-llamaindex-f8ef99f18abd?source=rss-ce7cd5b8b74a------2)
 - [Exploring Snowflake and Streamlit With LlamaIndex Text-to-SQL](https://betterprogramming.pub/exploring-snowflake-and-streamlit-with-llamaindex-text-to-sql-f66fec6e321b?source=rss-ce7cd5b8b74a------2)
 - [Experimenting LlamaIndex RouterQueryEngine with Document Management](https://betterprogramming.pub/experimenting-llamaindex-routerqueryengine-with-document-management-19b17f2e3a32?source=rss-ce7cd5b8b74a------2)
@@ -9,7 +10,6 @@
 - [Analyzing Financial Reports With LlamaIndex and OpenAI](https://betterprogramming.pub/analyzing-financial-reports-with-llamaindex-and-openai-62772d6ee57f?source=rss-ce7cd5b8b74a------2)
 - [Querying Both Structured and Unstructured Data with LlamaIndex and OpenAI](https://betterprogramming.pub/querying-both-structured-and-unstructured-data-with-llamaindex-and-openai-8121c97ba57?source=rss-ce7cd5b8b74a------2)
 - [Semantic Search in Confluence Wiki With LlamaIndex and Pinecone](https://betterprogramming.pub/semantic-search-in-confluence-wiki-with-llamaindex-and-pinecone-eb39c1d8c004?source=rss-ce7cd5b8b74a------2)
-- [A Glimpse into the Mechanics of LlamaIndex Apps Through the Lens of Observability](https://betterprogramming.pub/a-glimpse-into-the-mechanics-of-llamaindex-apps-through-the-lens-of-observability-9e7c49f4cb32?source=rss-ce7cd5b8b74a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Statistics
