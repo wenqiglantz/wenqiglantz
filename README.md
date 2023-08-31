@@ -1,6 +1,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring End-to-End Evaluation of RAG Pipelines](https://betterprogramming.pub/exploring-end-to-end-evaluation-of-rag-pipelines-e4c03221429?source=rss-ce7cd5b8b74a------2)
 - [Building Production-Ready LLM Apps With LlamaIndex: Recursive Document Agents for Dynamic Retrieval](https://betterprogramming.pub/building-production-ready-llm-apps-with-llamaindex-recursive-document-agents-for-dynamic-retrieval-1f4b25287918?source=rss-ce7cd5b8b74a------2)
 - [Building Production-Ready LLM Apps with LlamaIndex: Document Metadata for Higher Accuracy Retrieval](https://betterprogramming.pub/building-production-ready-llm-apps-with-llamaindex-document-metadata-for-higher-accuracy-retrieval-a8ceca641fb5?source=rss-ce7cd5b8b74a------2)
 - [Highlights From My First Talk on Medium Day](https://betterprogramming.pub/highlights-from-my-first-talk-on-medium-day-bf54a7685e2?source=rss-ce7cd5b8b74a------2)
@@ -9,7 +10,6 @@
 - [SEC 10-K Filings Analysis for Life Science Companies Leveraging Snowflake Marketplace, LlamaIndex…](https://medium.com/snowflake/sec-10-k-filings-analysis-for-life-science-companies-leveraging-snowflake-marketplace-llamaindex-f8ef99f18abd?source=rss-ce7cd5b8b74a------2)
 - [Exploring Snowflake and Streamlit With LlamaIndex Text-to-SQL](https://betterprogramming.pub/exploring-snowflake-and-streamlit-with-llamaindex-text-to-sql-f66fec6e321b?source=rss-ce7cd5b8b74a------2)
 - [Experimenting LlamaIndex RouterQueryEngine with Document Management](https://betterprogramming.pub/experimenting-llamaindex-routerqueryengine-with-document-management-19b17f2e3a32?source=rss-ce7cd5b8b74a------2)
-- [Service Container: A Portable Way of Testing Your Application in the Pipeline](https://betterprogramming.pub/service-container-a-portable-way-of-testing-your-application-in-the-pipeline-797030c544c2?source=rss-ce7cd5b8b74a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Statistics
