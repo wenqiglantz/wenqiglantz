@@ -1,6 +1,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fine-Tuning GPT-3.5 RAG Pipeline with GPT-4 Training Data](https://betterprogramming.pub/fine-tuning-gpt-3-5-rag-pipeline-with-gpt-4-training-data-49ac0c099919?source=rss-ce7cd5b8b74a------2)
 - [Exploring End-to-End Evaluation of RAG Pipelines](https://betterprogramming.pub/exploring-end-to-end-evaluation-of-rag-pipelines-e4c03221429?source=rss-ce7cd5b8b74a------2)
 - [Building Production-Ready LLM Apps With LlamaIndex: Recursive Document Agents for Dynamic Retrieval](https://betterprogramming.pub/building-production-ready-llm-apps-with-llamaindex-recursive-document-agents-for-dynamic-retrieval-1f4b25287918?source=rss-ce7cd5b8b74a------2)
 - [Building Production-Ready LLM Apps with LlamaIndex: Document Metadata for Higher Accuracy Retrieval](https://betterprogramming.pub/building-production-ready-llm-apps-with-llamaindex-document-metadata-for-higher-accuracy-retrieval-a8ceca641fb5?source=rss-ce7cd5b8b74a------2)
@@ -9,7 +10,6 @@
 - [Low-Code and No-Code Task Automation With LlamaIndex Data Agents, Zapier NLA, Snowflake, &amp;…](https://betterprogramming.pub/low-code-and-no-code-task-automation-with-llamaindex-data-agents-zapier-nla-snowflake-85f2ab6144fe?source=rss-ce7cd5b8b74a------2)
 - [SEC 10-K Filings Analysis for Life Science Companies Leveraging Snowflake Marketplace, LlamaIndex…](https://medium.com/snowflake/sec-10-k-filings-analysis-for-life-science-companies-leveraging-snowflake-marketplace-llamaindex-f8ef99f18abd?source=rss-ce7cd5b8b74a------2)
 - [Exploring Snowflake and Streamlit With LlamaIndex Text-to-SQL](https://betterprogramming.pub/exploring-snowflake-and-streamlit-with-llamaindex-text-to-sql-f66fec6e321b?source=rss-ce7cd5b8b74a------2)
-- [Experimenting LlamaIndex RouterQueryEngine with Document Management](https://betterprogramming.pub/experimenting-llamaindex-routerqueryengine-with-document-management-19b17f2e3a32?source=rss-ce7cd5b8b74a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Statistics
