@@ -1,6 +1,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring ReAct Agent for Better Prompting in RAG Pipeline](https://betterprogramming.pub/exploring-react-agent-for-better-prompting-in-rag-pipeline-b231aae0ca7c?source=rss-ce7cd5b8b74a------2)
 - [Fine-Tuning Your Embedding Model to Maximize Relevance Retrieval in RAG Pipeline](https://betterprogramming.pub/fine-tuning-your-embedding-model-to-maximize-relevance-retrieval-in-rag-pipeline-2ea3fa231149?source=rss-ce7cd5b8b74a------2)
 - [Fine-Tuning GPT-3.5 RAG Pipeline with GPT-4 Training Data](https://betterprogramming.pub/fine-tuning-gpt-3-5-rag-pipeline-with-gpt-4-training-data-49ac0c099919?source=rss-ce7cd5b8b74a------2)
 - [Exploring End-to-End Evaluation of RAG Pipelines](https://betterprogramming.pub/exploring-end-to-end-evaluation-of-rag-pipelines-e4c03221429?source=rss-ce7cd5b8b74a------2)
