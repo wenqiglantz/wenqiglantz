@@ -1,6 +1,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [7 Query Strategies for Navigating Knowledge Graphs With LlamaIndex](https://betterprogramming.pub/7-query-strategies-for-navigating-knowledge-graphs-with-llamaindex-ed551863d416?source=rss-ce7cd5b8b74a------2)
 - [Exploring ReAct Agent for Better Prompting in RAG Pipeline](https://betterprogramming.pub/exploring-react-agent-for-better-prompting-in-rag-pipeline-b231aae0ca7c?source=rss-ce7cd5b8b74a------2)
 - [Fine-Tuning Your Embedding Model to Maximize Relevance Retrieval in RAG Pipeline](https://betterprogramming.pub/fine-tuning-your-embedding-model-to-maximize-relevance-retrieval-in-rag-pipeline-2ea3fa231149?source=rss-ce7cd5b8b74a------2)
 - [Fine-Tuning GPT-3.5 RAG Pipeline with GPT-4 Training Data](https://betterprogramming.pub/fine-tuning-gpt-3-5-rag-pipeline-with-gpt-4-training-data-49ac0c099919?source=rss-ce7cd5b8b74a------2)
@@ -10,7 +11,6 @@
 - [Highlights From My First Talk on Medium Day](https://betterprogramming.pub/highlights-from-my-first-talk-on-medium-day-bf54a7685e2?source=rss-ce7cd5b8b74a------2)
 - [Building a Real Estate App with Snowflake Native App Framework](https://medium.com/snowflake/building-a-real-estate-app-with-snowflake-native-app-framework-68ee5d5ffe9a?source=rss-ce7cd5b8b74a------2)
 - [Low-Code and No-Code Task Automation With LlamaIndex Data Agents, Zapier NLA, Snowflake, &amp;…](https://betterprogramming.pub/low-code-and-no-code-task-automation-with-llamaindex-data-agents-zapier-nla-snowflake-85f2ab6144fe?source=rss-ce7cd5b8b74a------2)
-- [SEC 10-K Filings Analysis for Life Science Companies Leveraging Snowflake Marketplace, LlamaIndex…](https://medium.com/snowflake/sec-10-k-filings-analysis-for-life-science-companies-leveraging-snowflake-marketplace-llamaindex-f8ef99f18abd?source=rss-ce7cd5b8b74a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Statistics
