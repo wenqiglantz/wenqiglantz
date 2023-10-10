@@ -1,6 +1,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Evaluation Driven Development, the Swiss Army Knife for RAG Pipelines](https://levelup.gitconnected.com/evaluation-driven-development-the-swiss-army-knife-for-rag-pipelines-dba24218d47e?source=rss-ce7cd5b8b74a------2)
 - [Masking PII Data in RAG Pipeline](https://betterprogramming.pub/masking-pii-data-in-rag-pipeline-326d2d330336?source=rss-ce7cd5b8b74a------2)
 - [7 Query Strategies for Navigating Knowledge Graphs With LlamaIndex](https://betterprogramming.pub/7-query-strategies-for-navigating-knowledge-graphs-with-llamaindex-ed551863d416?source=rss-ce7cd5b8b74a------2)
 - [Exploring ReAct Agent for Better Prompting in RAG Pipeline](https://betterprogramming.pub/exploring-react-agent-for-better-prompting-in-rag-pipeline-b231aae0ca7c?source=rss-ce7cd5b8b74a------2)
@@ -10,7 +11,6 @@
 - [Building Production-Ready LLM Apps With LlamaIndex: Recursive Document Agents for Dynamic Retrieval](https://betterprogramming.pub/building-production-ready-llm-apps-with-llamaindex-recursive-document-agents-for-dynamic-retrieval-1f4b25287918?source=rss-ce7cd5b8b74a------2)
 - [Building Production-Ready LLM Apps with LlamaIndex: Document Metadata for Higher Accuracy Retrieval](https://betterprogramming.pub/building-production-ready-llm-apps-with-llamaindex-document-metadata-for-higher-accuracy-retrieval-a8ceca641fb5?source=rss-ce7cd5b8b74a------2)
 - [Highlights From My First Talk on Medium Day](https://betterprogramming.pub/highlights-from-my-first-talk-on-medium-day-bf54a7685e2?source=rss-ce7cd5b8b74a------2)
-- [Building a Real Estate App with Snowflake Native App Framework](https://medium.com/snowflake/building-a-real-estate-app-with-snowflake-native-app-framework-68ee5d5ffe9a?source=rss-ce7cd5b8b74a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Statistics
