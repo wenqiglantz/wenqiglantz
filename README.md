@@ -1,6 +1,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Meet LLaVA, Your New Kitchen Aide](https://levelup.gitconnected.com/meet-llava-your-new-kitchen-aide-fc7f067a5d60?source=rss-ce7cd5b8b74a------2)
 - [2 Simple Steps to Creating Dynamic Diagrams with Draw.io](https://medium.com/@wenqiglantz/2-simple-steps-to-creating-dynamic-diagrams-with-draw-io-55afd66e0739?source=rss-ce7cd5b8b74a------2)
 - [Multimodal Retrieval with Text Embedding and CLIP Image Embedding for Backyard Birds](https://levelup.gitconnected.com/multimodal-retrieval-with-text-embedding-and-clip-image-embedding-for-backyard-birds-599f19057a70?source=rss-ce7cd5b8b74a------2)
 - [Optimizing Text Embeddings with HuggingFace’s text-embeddings-inference Server and LlamaIndex](https://levelup.gitconnected.com/optimizing-text-embeddings-with-huggingfaces-text-embeddings-inference-server-and-llamaindex-ef7df35882a4?source=rss-ce7cd5b8b74a------2)
@@ -10,7 +11,6 @@
 - [7 Query Strategies for Navigating Knowledge Graphs With LlamaIndex](https://betterprogramming.pub/7-query-strategies-for-navigating-knowledge-graphs-with-llamaindex-ed551863d416?source=rss-ce7cd5b8b74a------2)
 - [Exploring ReAct Agent for Better Prompting in RAG Pipeline](https://betterprogramming.pub/exploring-react-agent-for-better-prompting-in-rag-pipeline-b231aae0ca7c?source=rss-ce7cd5b8b74a------2)
 - [Fine-Tuning Your Embedding Model to Maximize Relevance Retrieval in RAG Pipeline](https://betterprogramming.pub/fine-tuning-your-embedding-model-to-maximize-relevance-retrieval-in-rag-pipeline-2ea3fa231149?source=rss-ce7cd5b8b74a------2)
-- [Fine-Tuning GPT-3.5 RAG Pipeline with GPT-4 Training Data](https://betterprogramming.pub/fine-tuning-gpt-3-5-rag-pipeline-with-gpt-4-training-data-49ac0c099919?source=rss-ce7cd5b8b74a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Statistics
