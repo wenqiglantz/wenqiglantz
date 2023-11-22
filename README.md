@@ -1,6 +1,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Sketch to Streamlit App: GPT-4 Vision Revolutionizes UI/UX](https://levelup.gitconnected.com/from-sketch-to-streamlit-app-gpt-4-vision-revolutionizes-ui-ux-397d87878ff8?source=rss-ce7cd5b8b74a------2)
 - [Automating Hyperparameter Tuning with LlamaIndex](https://levelup.gitconnected.com/automating-hyperparameter-tuning-with-llamaindex-72fdd68e3b90?source=rss-ce7cd5b8b74a------2)
 - [LLaVA vs. GPT-4V Amidst Snow Geese Migration](https://levelup.gitconnected.com/llava-vs-gpt-4v-amidst-snow-geese-migration-c2561b16113d?source=rss-ce7cd5b8b74a------2)
 - [Meet LLaVA, Your New Kitchen Aide](https://levelup.gitconnected.com/meet-llava-your-new-kitchen-aide-fc7f067a5d60?source=rss-ce7cd5b8b74a------2)
@@ -10,7 +11,6 @@
 - [Exploring zephyr-7b-alpha Through the Lens of Evaluation Driven Development](https://levelup.gitconnected.com/exploring-zephyr-7b-alpha-through-the-lens-of-evaluation-driven-development-faf69e9d9ec7?source=rss-ce7cd5b8b74a------2)
 - [Evaluation Driven Development, the Swiss Army Knife for RAG Pipelines](https://levelup.gitconnected.com/evaluation-driven-development-the-swiss-army-knife-for-rag-pipelines-dba24218d47e?source=rss-ce7cd5b8b74a------2)
 - [Masking PII Data in RAG Pipeline](https://betterprogramming.pub/masking-pii-data-in-rag-pipeline-326d2d330336?source=rss-ce7cd5b8b74a------2)
-- [7 Query Strategies for Navigating Knowledge Graphs With LlamaIndex](https://betterprogramming.pub/7-query-strategies-for-navigating-knowledge-graphs-with-llamaindex-ed551863d416?source=rss-ce7cd5b8b74a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Statistics
