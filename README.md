@@ -1,6 +1,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Simpler Way to Query Neo4j Knowledge Graphs](https://levelup.gitconnected.com/a-simpler-way-to-query-neo4j-knowledge-graphs-99c0a8bbf1d7?source=rss-ce7cd5b8b74a------2)
 - [Llama Packs: The Low-Code Solution to Building Your LLM Apps](https://levelup.gitconnected.com/llama-packs-the-low-code-solution-to-building-your-llm-apps-269eec05557b?source=rss-ce7cd5b8b74a------2)
 - [Security-Driven Development with OWASP Top 10 for LLM Applications](https://levelup.gitconnected.com/security-driven-development-with-owasp-top-10-for-llm-applications-588406f40d4c?source=rss-ce7cd5b8b74a------2)
 - [From Sketch to Streamlit App: GPT-4 Vision Revolutionizes UI/UX](https://levelup.gitconnected.com/from-sketch-to-streamlit-app-gpt-4-vision-revolutionizes-ui-ux-397d87878ff8?source=rss-ce7cd5b8b74a------2)
@@ -10,7 +11,6 @@
 - [2 Simple Steps to Creating Dynamic Diagrams with Draw.io](https://medium.com/@wenqiglantz/2-simple-steps-to-creating-dynamic-diagrams-with-draw-io-55afd66e0739?source=rss-ce7cd5b8b74a------2)
 - [Multimodal Retrieval with Text Embedding and CLIP Image Embedding for Backyard Birds](https://levelup.gitconnected.com/multimodal-retrieval-with-text-embedding-and-clip-image-embedding-for-backyard-birds-599f19057a70?source=rss-ce7cd5b8b74a------2)
 - [Optimizing Text Embeddings with HuggingFace’s text-embeddings-inference Server and LlamaIndex](https://levelup.gitconnected.com/optimizing-text-embeddings-with-huggingfaces-text-embeddings-inference-server-and-llamaindex-ef7df35882a4?source=rss-ce7cd5b8b74a------2)
-- [Exploring zephyr-7b-alpha Through the Lens of Evaluation Driven Development](https://levelup.gitconnected.com/exploring-zephyr-7b-alpha-through-the-lens-of-evaluation-driven-development-faf69e9d9ec7?source=rss-ce7cd5b8b74a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Statistics
