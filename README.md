@@ -1,6 +1,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring mergekit for Model Merge and AutoEval for Model Evaluation](https://towardsdatascience.com/exploring-mergekit-for-model-merge-and-autoeval-for-model-evaluation-c681766fd1f3?source=rss-ce7cd5b8b74a------2)
 - [Democratizing LLMs: 4-bit Quantization for Optimal LLM Inference](https://towardsdatascience.com/democratizing-llms-4-bit-quantization-for-optimal-llm-inference-be30cf4e0e34?source=rss-ce7cd5b8b74a------2)
 - [Deploying LLM Apps to AWS, the Open-Source Self-Service Way](https://towardsdatascience.com/deploying-llm-apps-to-aws-the-open-source-self-service-way-c54b8667d829?source=rss-ce7cd5b8b74a------2)
 - [Safeguarding Your RAG Pipelines: A Step-by-Step Guide to Implementing Llama Guard with LlamaIndex](https://towardsdatascience.com/safeguarding-your-rag-pipelines-a-step-by-step-guide-to-implementing-llama-guard-with-llamaindex-6f80a2e07756?source=rss-ce7cd5b8b74a------2)
@@ -10,7 +11,6 @@
 - [Security-Driven Development with OWASP Top 10 for LLM Applications](https://levelup.gitconnected.com/security-driven-development-with-owasp-top-10-for-llm-applications-588406f40d4c?source=rss-ce7cd5b8b74a------2)
 - [From Sketch to Streamlit App: GPT-4 Vision Revolutionizes UI/UX](https://levelup.gitconnected.com/from-sketch-to-streamlit-app-gpt-4-vision-revolutionizes-ui-ux-397d87878ff8?source=rss-ce7cd5b8b74a------2)
 - [Automating Hyperparameter Tuning with LlamaIndex](https://levelup.gitconnected.com/automating-hyperparameter-tuning-with-llamaindex-72fdd68e3b90?source=rss-ce7cd5b8b74a------2)
-- [LLaVA vs. GPT-4V Amidst Snow Geese Migration](https://levelup.gitconnected.com/llava-vs-gpt-4v-amidst-snow-geese-migration-c2561b16113d?source=rss-ce7cd5b8b74a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Statistics
