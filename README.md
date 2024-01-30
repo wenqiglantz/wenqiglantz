@@ -1,6 +1,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Jump-start Your RAG Pipelines with Advanced Retrieval LlamaPacks and Benchmark with Lighthouz AI](https://towardsdatascience.com/jump-start-your-rag-pipelines-with-advanced-retrieval-llamapacks-and-benchmark-with-lighthouz-ai-80a09b7c7d9d?source=rss-ce7cd5b8b74a------2)
 - [Exploring mergekit for Model Merge, AutoEval for Model Evaluation, and DPO for Model Fine-tuning](https://towardsdatascience.com/exploring-mergekit-for-model-merge-and-autoeval-for-model-evaluation-c681766fd1f3?source=rss-ce7cd5b8b74a------2)
 - [Democratizing LLMs: 4-bit Quantization for Optimal LLM Inference](https://towardsdatascience.com/democratizing-llms-4-bit-quantization-for-optimal-llm-inference-be30cf4e0e34?source=rss-ce7cd5b8b74a------2)
 - [Deploying LLM Apps to AWS, the Open-Source Self-Service Way](https://towardsdatascience.com/deploying-llm-apps-to-aws-the-open-source-self-service-way-c54b8667d829?source=rss-ce7cd5b8b74a------2)
@@ -10,7 +11,6 @@
 - [Llama Packs: The Low-Code Solution to Building Your LLM Apps](https://levelup.gitconnected.com/llama-packs-the-low-code-solution-to-building-your-llm-apps-269eec05557b?source=rss-ce7cd5b8b74a------2)
 - [Security-Driven Development with OWASP Top 10 for LLM Applications](https://levelup.gitconnected.com/security-driven-development-with-owasp-top-10-for-llm-applications-588406f40d4c?source=rss-ce7cd5b8b74a------2)
 - [From Sketch to Streamlit App: GPT-4 Vision Revolutionizes UI/UX](https://levelup.gitconnected.com/from-sketch-to-streamlit-app-gpt-4-vision-revolutionizes-ui-ux-397d87878ff8?source=rss-ce7cd5b8b74a------2)
-- [Automating Hyperparameter Tuning with LlamaIndex](https://levelup.gitconnected.com/automating-hyperparameter-tuning-with-llamaindex-72fdd68e3b90?source=rss-ce7cd5b8b74a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Statistics
