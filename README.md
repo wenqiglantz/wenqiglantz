@@ -1,6 +1,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Extending the NVIDIA Agent Intelligence Toolkit to Support New Agentic Frameworks](https://medium.com/@wenqiglantz/extending-the-nvidia-agent-intelligence-toolkit-to-support-new-agentic-frameworks-a0e691bc0729?source=rss-ce7cd5b8b74a------2)
 - [The Journey of RAG Development: From Notebook to Microservices](https://medium.com/data-science/the-journey-of-rag-development-from-notebook-to-microservices-cc065d0210ef?source=rss-ce7cd5b8b74a------2)
 - [NeMo Guardrails, the Ultimate Open-Source LLM Security Toolkit](https://medium.com/data-science/nemo-guardrails-the-ultimate-open-source-llm-security-toolkit-0a34648713ef?source=rss-ce7cd5b8b74a------2)
 - [12 RAG Pain Points and Proposed Solutions](https://medium.com/data-science/12-rag-pain-points-and-proposed-solutions-43709939a28c?source=rss-ce7cd5b8b74a------2)
@@ -10,7 +11,6 @@
 - [Deploying LLM Apps to AWS, the Open-Source Self-Service Way](https://medium.com/data-science/deploying-llm-apps-to-aws-the-open-source-self-service-way-c54b8667d829?source=rss-ce7cd5b8b74a------2)
 - [Safeguarding Your RAG Pipelines: A Step-by-Step Guide to Implementing Llama Guard with LlamaIndex](https://medium.com/data-science/safeguarding-your-rag-pipelines-a-step-by-step-guide-to-implementing-llama-guard-with-llamaindex-6f80a2e07756?source=rss-ce7cd5b8b74a------2)
 - [10+ Ways to Run Open-Source Models with LlamaIndex](https://levelup.gitconnected.com/10-ways-to-run-open-source-models-with-llamaindex-84fd4b45d0cf?source=rss-ce7cd5b8b74a------2)
-- [A Simpler Way to Query Neo4j Knowledge Graphs](https://levelup.gitconnected.com/a-simpler-way-to-query-neo4j-knowledge-graphs-99c0a8bbf1d7?source=rss-ce7cd5b8b74a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Statistics
