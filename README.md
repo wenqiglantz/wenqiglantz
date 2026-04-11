@@ -1,7 +1,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Extending the NVIDIA Agent Intelligence Toolkit to Support New Agentic Frameworks](https://medium.com/@wenqiglantz/extending-the-nvidia-agent-intelligence-toolkit-to-support-new-agentic-frameworks-a0e691bc0729?source=rss-ce7cd5b8b74a------2)
+- [Extending the NVIDIA NeMo Agent Toolkit to Support New Agentic Frameworks](https://medium.com/@wenqiglantz/extending-the-nvidia-agent-intelligence-toolkit-to-support-new-agentic-frameworks-a0e691bc0729?source=rss-ce7cd5b8b74a------2)
 - [The Journey of RAG Development: From Notebook to Microservices](https://medium.com/data-science/the-journey-of-rag-development-from-notebook-to-microservices-cc065d0210ef?source=rss-ce7cd5b8b74a------2)
 - [NeMo Guardrails, the Ultimate Open-Source LLM Security Toolkit](https://medium.com/data-science/nemo-guardrails-the-ultimate-open-source-llm-security-toolkit-0a34648713ef?source=rss-ce7cd5b8b74a------2)
 - [12 RAG Pain Points and Proposed Solutions](https://medium.com/data-science/12-rag-pain-points-and-proposed-solutions-43709939a28c?source=rss-ce7cd5b8b74a------2)
