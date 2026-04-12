@@ -1,6 +1,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cut Checkpoint Costs with About 30 Lines of Python and NVIDIA nvCOMP](https://medium.com/@wenqiglantz/cut-checkpoint-costs-with-about-30-lines-of-python-and-nvidia-nvcomp-f21f5e170e67?source=rss-ce7cd5b8b74a------2)
 - [Extending the NVIDIA NeMo Agent Toolkit to Support New Agentic Frameworks](https://medium.com/@wenqiglantz/extending-the-nvidia-agent-intelligence-toolkit-to-support-new-agentic-frameworks-a0e691bc0729?source=rss-ce7cd5b8b74a------2)
 - [The Journey of RAG Development: From Notebook to Microservices](https://medium.com/data-science/the-journey-of-rag-development-from-notebook-to-microservices-cc065d0210ef?source=rss-ce7cd5b8b74a------2)
 - [NeMo Guardrails, the Ultimate Open-Source LLM Security Toolkit](https://medium.com/data-science/nemo-guardrails-the-ultimate-open-source-llm-security-toolkit-0a34648713ef?source=rss-ce7cd5b8b74a------2)
@@ -10,7 +11,6 @@
 - [Democratizing LLMs: 4-bit Quantization for Optimal LLM Inference](https://medium.com/data-science/democratizing-llms-4-bit-quantization-for-optimal-llm-inference-be30cf4e0e34?source=rss-ce7cd5b8b74a------2)
 - [Deploying LLM Apps to AWS, the Open-Source Self-Service Way](https://medium.com/data-science/deploying-llm-apps-to-aws-the-open-source-self-service-way-c54b8667d829?source=rss-ce7cd5b8b74a------2)
 - [Safeguarding Your RAG Pipelines: A Step-by-Step Guide to Implementing Llama Guard with LlamaIndex](https://medium.com/data-science/safeguarding-your-rag-pipelines-a-step-by-step-guide-to-implementing-llama-guard-with-llamaindex-6f80a2e07756?source=rss-ce7cd5b8b74a------2)
-- [10+ Ways to Run Open-Source Models with LlamaIndex](https://levelup.gitconnected.com/10-ways-to-run-open-source-models-with-llamaindex-84fd4b45d0cf?source=rss-ce7cd5b8b74a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Statistics
